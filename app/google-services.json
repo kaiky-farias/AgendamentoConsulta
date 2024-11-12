@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "1072808558360",
+    "project_id": "appsanta-13d26",
+    "storage_bucket": "appsanta-13d26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:d9920708e56b98f33e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.AppFirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:fd0a6c409f39c9913e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.agendamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:322101bb4cb346433e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.appfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:4472dcdd6d67b0c43e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.appsanta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:c039b68a3ef30e813e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.appsantaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:58542c797199a6cc3e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.clinicaagendamentoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072808558360:android:b0fd7bec4eeb92db3e686d",
+        "android_client_info": {
+          "package_name": "br.unisanta.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn7blBGH5vvZdjp1qS3A0tBDuM-z1tjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
